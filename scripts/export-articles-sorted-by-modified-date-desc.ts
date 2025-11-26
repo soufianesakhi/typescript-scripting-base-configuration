@@ -2,7 +2,7 @@ import fs from "node:fs/promises";
 
 import path from "node:path";
 
-import { fileURLToPath } from "url";
+import { fileURLToPath } from "node:url";
 
 // Path to the current script
 const __filename = fileURLToPath(import.meta.url);
