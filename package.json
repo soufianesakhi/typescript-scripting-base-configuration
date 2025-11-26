@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@tsconfig/node24": "^24.0.1",
+    "@types/node": "^24.10.1"
+  }
+}
